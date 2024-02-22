@@ -1,4 +1,5 @@
-![logo](https://github.com/jiyeon2536/project-capybara/assets/125720796/f3ceadc1-6028-47bd-82d7-5de2d295fe87)
+![mainimage](https://github.com/jiyeon2536/project-capybara/assets/125720796/be30a762-0ada-4f8b-b57b-747e7ac652d5)
+
 
 ![Alt text](reward.jpg)
 
