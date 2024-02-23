@@ -1,8 +1,6 @@
 ![mainimage](https://github.com/jiyeon2536/project-capybara/assets/125720796/be30a762-0ada-4f8b-b57b-747e7ac652d5)
 
 
-![Alt text](reward.jpg)
-
 ### 📓 프로젝트 개요
 - 설명 : 예금 상품 조회 및 추천 서비스
 - 기간 : 2023.11.15(수) ~ 2023.11.24(금)
@@ -30,6 +28,12 @@
 - **김지연** : Vue.js를 활용한 FrontEnd 개발, UI 디자인, 지도 검색, FrontEnd 배포, 서비스 테스트 및 디버깅
 
 <br/>
+
+### 🦿 성과
+- **삼성청년SW아카데미 1학기 종합 프로젝트 경진대회 우수상**  
+
+<img src="./reward.jpg" width=360px />
+
 
 ## 🛒 기술 스택
 
