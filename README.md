@@ -30,9 +30,9 @@
 <br/>
 
 ### 🦿 성과
-- **삼성청년SW아카데미 1학기 종합 프로젝트 경진대회 우수상**  
+- 삼성청년SW아카데미 1학기 종합 프로젝트 경진대회 우수상  
 
-<img src="./reward.jpg" width=360px />
+<img src="./reward.jpg" width=430px />
 
 
 ## 🛒 기술 스택
